@@ -60,7 +60,7 @@
           <ConfigurationSetting>
             <Id>Online Shop DW</Id>
             <Name>Online Shop DW</Name>
-            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=ZVERDVD-IUAC6N5\DEVELOPERSERVER;Integrated Security=SSPI;Initial Catalog=OnlineShopDW</Value>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=DESKTOP-9P4Q99S\SQLEXPRESS;Integrated Security=SSPI;Initial Catalog=OnlineShopDW</Value>
           </ConfigurationSetting>
           <ConfigurationSetting>
             <Id>Online Shop DW 1</Id>

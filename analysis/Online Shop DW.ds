@@ -3,11 +3,11 @@
   <Name>Online Shop DW</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
   <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
-  <ConnectionString>Provider=SQLNCLI11.1;Data Source=ZVERDVD-IUAC6N5\DEVELOPERSERVER;Integrated Security=SSPI;Initial Catalog=OnlineShopDW</ConnectionString>
+  <ConnectionString>Provider=SQLNCLI11.1;Data Source=DESKTOP-9P4Q99S\SQLEXPRESS;Integrated Security=SSPI;Initial Catalog=OnlineShopDW</ConnectionString>
   <ConnectionStringSecurity>Unchanged</ConnectionStringSecurity>
   <ImpersonationInfo>
     <ImpersonationMode>ImpersonateAccount</ImpersonationMode>
-    <Account>zver</Account>
+    <Account>cuprum19930@gmail.com</Account>
     <ImpersonationInfoSecurity>PasswordRemoved</ImpersonationInfoSecurity>
   </ImpersonationInfo>
   <Timeout>PT0S</Timeout>
